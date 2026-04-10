@@ -1,0 +1,12 @@
+{
+  "type": "panel",
+  "name": "Zabbix Status Map - v2",
+  "id": "zabbix-status-map-panel-v2",
+  "info": {
+    "description": "Web + generic items monitoring",
+    "author": {
+      "name": "Monitoramento - Silvio Junior"
+    },
+    "version": "2.0.0"
+  }
+}

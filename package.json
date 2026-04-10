@@ -1,0 +1,19 @@
+{
+  "name": "Zabbix Status Map - v2",
+  "version": "2.0.0",
+  "description": "Grafana panel plugin - Zabbix web + generic items status map with alias support",
+  "scripts": {
+    "build": "grafana-toolkit plugin:build",
+    "dev": "grafana-toolkit plugin:dev"
+  },
+  "dependencies": {
+    "@grafana/data": "10.4.5",
+    "@grafana/runtime": "10.4.5",
+    "@grafana/ui": "10.4.5",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@grafana/toolkit": "10.4.5"
+  }
+}
